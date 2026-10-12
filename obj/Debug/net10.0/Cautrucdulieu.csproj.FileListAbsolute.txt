@@ -1,0 +1,15 @@
+C:\C#_project\c_sharp\Cautrucdulieu\bin\Debug\net10.0\Cautrucdulieu.exe
+C:\C#_project\c_sharp\Cautrucdulieu\bin\Debug\net10.0\Cautrucdulieu.deps.json
+C:\C#_project\c_sharp\Cautrucdulieu\bin\Debug\net10.0\Cautrucdulieu.runtimeconfig.json
+C:\C#_project\c_sharp\Cautrucdulieu\bin\Debug\net10.0\Cautrucdulieu.dll
+C:\C#_project\c_sharp\Cautrucdulieu\bin\Debug\net10.0\Cautrucdulieu.pdb
+C:\C#_project\c_sharp\Cautrucdulieu\obj\Debug\net10.0\Cautrucdulieu.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#_project\c_sharp\Cautrucdulieu\obj\Debug\net10.0\Cautrucdulieu.AssemblyInfoInputs.cache
+C:\C#_project\c_sharp\Cautrucdulieu\obj\Debug\net10.0\Cautrucdulieu.AssemblyInfo.cs
+C:\C#_project\c_sharp\Cautrucdulieu\obj\Debug\net10.0\Cautrucdulieu.csproj.CoreCompileInputs.cache
+C:\C#_project\c_sharp\Cautrucdulieu\obj\Debug\net10.0\Cautrucdulieu.sourcelink.json
+C:\C#_project\c_sharp\Cautrucdulieu\obj\Debug\net10.0\Cautrucdulieu.dll
+C:\C#_project\c_sharp\Cautrucdulieu\obj\Debug\net10.0\refint\Cautrucdulieu.dll
+C:\C#_project\c_sharp\Cautrucdulieu\obj\Debug\net10.0\Cautrucdulieu.pdb
+C:\C#_project\c_sharp\Cautrucdulieu\obj\Debug\net10.0\Cautrucdulieu.genruntimeconfig.cache
+C:\C#_project\c_sharp\Cautrucdulieu\obj\Debug\net10.0\ref\Cautrucdulieu.dll
